@@ -1,11 +1,35 @@
-# 2D-Platformer-Game
-A 2D platformer game developed using Unity and C#. Game features:- player movement, coin collection, multiple levels with increasing difficulty, and a simple UI system including menu and level completion screens.
+# 🎮 2D Platformer Game
 
-## 🎮 Gameplay Screenshot
-![Gameplay](Gameplay.png)
+## 📖 About The Game
+This is a 2D platformer game developed using Unity and C#.  
+In this game the player collects coins, avoids enemies and reaches the portal to complete the level.  
+The game includes multiple levels with increasing difficulty, enemy obstacles and a level completion system.
 
-## 🏠 Main Menu
+---
+
+## ✨ Features
+- 🪙 Coin Collection System
+- 👾 Enemy AI
+- 🌍 Multiple Levels
+- 🌀 Portal System
+- ⏸️ Pause Menu
+
+---
+
+## 🖼️ Game Screenshots
+
+### 🏠 Main Menu
 ![Main Menu](MainMenu.png)
 
-## 🏁 Level Complete
-![Level Complete](FinishLine.png)
+### 🎮 Gameplay
+![Gameplay](Gameplay.png)
+
+### 🏁 Level Complete Screen
+![Level](FinishLine.png)
+
+---
+
+## 🛠️ Built With
+- Unity Engine
+- C#
+- Visual Studio
